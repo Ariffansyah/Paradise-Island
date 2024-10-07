@@ -7,4 +7,5 @@ how to run
 if you use bun you can just:
 "bun run dev"
 
-if you don't:
+if you don't you can just:
+"npm start" or "npm run dev"

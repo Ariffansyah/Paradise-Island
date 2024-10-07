@@ -2,11 +2,7 @@
   "routes": [
     {
       "src": "/Tour",
-      "dest": "./src/components/Tour"
+      "dest": "./src/components/Tour.tsx"
     }
-    {
-      "src": "/Culinary",
-      "dest": "./src/components/Culinary"
-  }
-  ]
+    ]
 }

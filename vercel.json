@@ -2,11 +2,11 @@
   "routes": [
     {
       "src": "/Tour",
-      "dest": "/components/Tour"
+      "dest": "./src/components/Tour"
     }
     {
       "src": "/Culinary",
-      "dest": "/components/Culinary"
+      "dest": "./src/components/Culinary"
   }
   ]
 }

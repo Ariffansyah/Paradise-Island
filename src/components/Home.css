@@ -1,0 +1,49 @@
+@media screen and (max-width: 810px) {
+  main {
+    min-height: calc(100vh - 66px);
+  }
+}
+
+@media screen and (min-width: 810px) {
+  main {
+    min-height: calc(100vh - 66px);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .mobile {
+    flex-direction: column !important; 
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .mobile {
+    flex-direction: row !important;
+  }
+}
+
+.marginhome {
+  margin-top: 18vh;
+}
+
+.bgcolor {
+  background-color: #222222 !important;
+}
+
+.previewimage {
+  filter: brightness(50%);
+  height: 100%;
+  object-potition: center;
+  object-fit: cover;
+}
+
+.c-item {
+  height: 480px;
+}
+
+.footersize {
+  height: 20px;
+  bottom: 0;
+  width: 100%;
+}
+

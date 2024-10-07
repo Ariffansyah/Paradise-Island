@@ -81,19 +81,8 @@ function Home() {
         </div>
         <div className="d-flex mobile justify-content-center">
           <div className="d-flex flex-column text-center px-3">
-            <h6><strong>Biodata</strong></h6>
-            <p>Mohammad Ariffansyah</p>
-            <p>24051204099</p>
-            <p>Teknik Informatika 2024</p>
-          </div>
-          <div className="d-flex flex-column text-center px-3">
-            <h6><strong>Social</strong></h6>
-            <p>@arppthef</p>
-          </div>
-          <div className="d-flex flex-column text-center px-3">
             <h6><strong>Contact</strong></h6>
             <p>me@arpthef.my.id</p>
-            <p>24051204099@mhs.unesa.ac.id</p>
           </div>
         </div>
       </section>

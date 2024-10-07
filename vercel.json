@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/Tour",
-      "dest": "./src/components/Tour.tsx"
+      "dest": "/"
     }
     ]
 }

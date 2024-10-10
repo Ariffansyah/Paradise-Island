@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import logo from '../assets/logo.png';
 
-function Footer() {
+function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bgcolor">
       <div className="container-fluid">
@@ -29,4 +29,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default Navbar;
